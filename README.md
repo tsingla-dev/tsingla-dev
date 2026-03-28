@@ -235,9 +235,9 @@ someone who:
 <br/>
 
 <!-- BOTTOM CTA -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsingla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tsingla](https://www.linkedin.com/in/tanvi-s-4ba534318))
 [![GitHub](https://img.shields.io/badge/GitHub-C41E3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsingla)
-[![Email](https://img.shields.io/badge/Email-7C0A02?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-7C0A02?style=for-the-badge&logo=gmail&logoColor=white)](tanvisinglwork@gmail.com)
 
 <br/>
 
