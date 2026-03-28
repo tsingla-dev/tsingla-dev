@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- TOP WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=tsingla&fontColor=FF2D55&fontSize=80&fontAlignY=38&desc=ai%20•%20finance%20•%20security&descAlignY=58&descSize=20&descColor=FFB3B3&animation=fadeIn&fontStyle=italic" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=tsingla&fontColor=FF2D55&fontSize=80&fontAlignY=38&desc=ai%20•%20ml%20•%20computer%20vision&descAlignY=58&descSize=20&descColor=FFB3B3&animation=fadeIn&fontStyle=italic" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C41E3A&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=not+here+to+fit+in+a+box.;building+across+ai%2C+finance+%26+security.;curious+mind.+sharp+direction.+long+game.;still+starting.+but+not+small." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C41E3A&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=not+here+to+fit+in+a+box.;building+real+ai+that+actually+matters.;curious+mind.+sharp+direction.+long+game.;still+starting.+but+not+small." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,8 @@
 ```yaml
 name        : tsingla
 role        : aiml student — but not limited to it
-domains     : [ machine learning, finance, cybersecurity ]
+domains     : [ machine learning, computer vision, real-world ai ]
+curious_about: [ finance, cybersecurity ]  # learning, not building yet
 mindset     : understand systems, not just use them
 trajectory  : building small → aiming for something much bigger
 status      : always learning. never stopping.
@@ -49,28 +50,20 @@ status      : always learning. never stopping.
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="60%">
 
-**🧠 Artificial Intelligence**
+**🧠 Artificial Intelligence** ← *main arena*
 
-Real-world ML & CV systems  
-Vision · Prediction · Deployment
-
-</td>
-<td align="center" width="33%">
-
-**📊 Finance & Markets**
-
-Markets · Data · Decision-making  
-Quant thinking · Risk models
+Real-world ML & Computer Vision systems  
+Vision · Prediction · Deployment · Real Use Cases
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="40%">
 
-**🔐 Cybersecurity**
+**🌐 On the Horizon**
 
-Basics → Advanced  
-Systems thinking · Threat modeling
+📊 Finance & Markets — curious, learning  
+🔐 Cybersecurity — exploring, not yet deep
 
 </td>
 </tr>
