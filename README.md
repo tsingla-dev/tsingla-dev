@@ -102,33 +102,6 @@ Vision · Prediction · Deployment · Real Use Cases
 
 ---
 
-<!-- GITHUB STATS -->
-<div align="center">
-
-### 📈 `[ github_stats ]`
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsingla&show_icons=true&theme=radical&hide_border=true&bg_color=0D0000&title_color=FF2D55&icon_color=C41E3A&text_color=FFB3B3&ring_color=8B0000" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingla&layout=compact&theme=radical&hide_border=true&bg_color=0D0000&title_color=FF2D55&text_color=FFB3B3" />
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=tsingla&theme=radical&hide_border=true&background=0D0000&ring=C41E3A&fire=FF2D55&currStreakLabel=FF2D55&sideLabels=FFB3B3&currStreakNum=FF2D55&sideNums=FFB3B3&dates=8B4444" />
-
-<br/><br/>
-
-<!-- TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=tsingla&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" />
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 <!-- PROJECTS -->
 <div align="center">
