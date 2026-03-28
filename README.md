@@ -25,10 +25,10 @@
 ### `> whoami`
 
 ```yaml
-name        : tsingla
+name        : Tanvi Singla
 role        : aiml student — but not limited to it
 domains     : [ machine learning, computer vision, real-world ai ]
-curious_about: [ finance, cybersecurity ]  # learning, not building yet
+major interests : [ finance>>cybersecurity ]  
 mindset     : understand systems, not just use them
 trajectory  : building small → aiming for something much bigger
 status      : always learning. never stopping.
@@ -211,13 +211,12 @@ Built for Smart India Hackathon — a full system for groundwater quality assess
 <!-- PHILOSOPHY -->
 <div align="center">
 
-### 🌱 `[ what_i_am_becoming ]`
+### 🌱 `[ me in 5 years ]`
 
 </div>
 
 ```
-not just a developer.
-not just an engineer.
+not just a developer or an engineer
 
 someone who:
   → builds
