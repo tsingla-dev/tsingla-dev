@@ -1,91 +1,254 @@
-<h1 align="center">Tanvi Singla ✦</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=25&pause=1100&color=A61B2B&center=true&vCenter=true&width=780&lines=not+here+to+fit+in+a+box;building+across+ai%2C+finance+%26+security;curious+mind+%E2%9C%A6+sharp+direction+%E2%9C%A6+long+game" alt="Typing SVG" />
-</p>
+<!-- TOP WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=tsingla&fontColor=FF2D55&fontSize=80&fontAlignY=38&desc=ai%20•%20finance%20•%20security&descAlignY=58&descSize=20&descColor=FFB3B3&animation=fadeIn&fontStyle=italic" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-building-7A0F1D?style=for-the-badge&labelColor=2B0A0F" />
-  <img src="https://img.shields.io/badge/Finance-learning-A61B2B?style=for-the-badge&labelColor=2B0A0F" />
-  <img src="https://img.shields.io/badge/Cybersecurity-exploring-C1273D?style=for-the-badge&labelColor=2B0A0F" />
-  <img src="https://img.shields.io/badge/Mindset-long%20term-8F1023?style=for-the-badge&labelColor=2B0A0F" />
-</p>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C41E3A&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=not+here+to+fit+in+a+box.;building+across+ai%2C+finance+%26+security.;curious+mind.+sharp+direction.+long+game.;still+starting.+but+not+small." alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 𖹭 about me
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=tsingla&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/tsingla?style=for-the-badge&color=C41E3A&labelColor=4A0000&logo=github)](https://github.com/tsingla)
 
-- aiml student, but never limited to one lane  
-- drawn to **machine learning, finance, cybersecurity, and system thinking**
-- i like understanding how things work, why they break, and how they can be made better
-- currently building my foundation through projects that are small now, but leading somewhere bigger
+</div>
 
 ---
 
-## ✦ what i'm exploring
+<!-- ABOUT ME SECTION -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-- **AI / ML** through practical, real-world projects  
-- **finance** through markets, data, decision-making, and strategy  
-- **cybersecurity** through curiosity about systems, vulnerabilities, and defense  
-- ideas that sit at the intersection of **technology, risk, behavior, and intelligence**
+### `> whoami`
+
+```yaml
+name        : tsingla
+role        : aiml student — but not limited to it
+domains     : [ machine learning, finance, cybersecurity ]
+mindset     : understand systems, not just use them
+trajectory  : building small → aiming for something much bigger
+status      : always learning. never stopping.
+```
+
+<br clear="right"/>
 
 ---
 
-## ⟢ tech stack
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,opencv,pytorch,sklearn,html,css,js" />
-</p>
+<!-- CURRENT FOCUS -->
+<div align="center">
+
+### ⚡ `[ current_focus.exe ]`
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🧠 Artificial Intelligence**
+
+Real-world ML & CV systems  
+Vision · Prediction · Deployment
+
+</td>
+<td align="center" width="33%">
+
+**📊 Finance & Markets**
+
+Markets · Data · Decision-making  
+Quant thinking · Risk models
+
+</td>
+<td align="center" width="33%">
+
+**🔐 Cybersecurity**
+
+Basics → Advanced  
+Systems thinking · Threat modeling
+
+</td>
+</tr>
+</table>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## ✧ projects
+<!-- TECH STACK -->
+<div align="center">
+
+### 🛠️ `[ tech_stack ]`
+
+<br/>
+
+<!-- Languages & Tools -->
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,opencv,pytorch,sklearn&theme=dark&perline=7" />
+
+<br/><br/>
+
+<!-- Shield Badges -->
+![Python](https://img.shields.io/badge/Python-8B0000?style=flat-square&logo=python&logoColor=FFB3B3)
+![C++](https://img.shields.io/badge/C++-C41E3A?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-7C0A02?style=flat-square&logo=pytorch&logoColor=FFB3B3)
+![OpenCV](https://img.shields.io/badge/OpenCV-8B0000?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-C41E3A?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7C0A02?style=flat-square&logo=git&logoColor=FFB3B3)
+![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- GITHUB STATS -->
+<div align="center">
+
+### 📈 `[ github_stats ]`
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsingla&show_icons=true&theme=radical&hide_border=true&bg_color=0D0000&title_color=FF2D55&icon_color=C41E3A&text_color=FFB3B3&ring_color=8B0000" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingla&layout=compact&theme=radical&hide_border=true&bg_color=0D0000&title_color=FF2D55&text_color=FFB3B3" />
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=tsingla&theme=radical&hide_border=true&background=0D0000&ring=C41E3A&fire=FF2D55&currStreakLabel=FF2D55&sideLabels=FFB3B3&currStreakNum=FF2D55&sideNums=FFB3B3&dates=8B4444" />
+
+<br/><br/>
+
+<!-- TROPHY -->
+<img src="https://github-profile-trophy.vercel.app/?username=tsingla&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" />
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- PROJECTS -->
+<div align="center">
+
+### 🚀 `[ projects ]`
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🎭 Emotion Detection AI
-Real-time facial emotion recognition using computer vision and deep learning.
+> Real-time emotion recognition using computer vision
+
+![Python](https://img.shields.io/badge/-Python-8B0000?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-C41E3A?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-7C0A02?style=flat-square&logo=pytorch&logoColor=white)
+
+Detects human emotions in real-time through a webcam feed — bridging the gap between machines and emotional intelligence.
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧴 DermAI
-AI-based skin condition awareness system using deep learning.
+> AI-powered skin condition awareness system
 
-### 💧 HMP Index Calculator (SIH Project)
-Collaborative project on groundwater quality analysis and pollution index assessment.  
-Contributed through dataset research, frontend, documentation, and problem understanding.
+![Python](https://img.shields.io/badge/-Python-8B0000?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/-Machine%20Learning-C41E3A?style=flat-square&logo=tensorflow&logoColor=white)
 
-### 🌾 Dynamic Agriculture Price Prediction
-Machine learning project for forecasting agricultural commodity prices using historical market data.
+Uses computer vision & classification to identify skin conditions — making dermatological awareness accessible to everyone.
 
----
+</td>
 
-## ❤ current energy
+</tr>
+<tr>
 
-- building skills slowly but seriously  
-- learning beyond the syllabus  
-- creating a profile that reflects range, curiosity, and direction  
-- preparing for bigger projects in **finance tech** and **cybersecurity**
+<td colspan="2" align="center" valign="top">
 
----
+### 💧 HMP Index Calculator — SIH Project
+> Groundwater quality analysis & pollution index system
 
-## 📊 github snapshot
+![Python](https://img.shields.io/badge/-Python-8B0000?style=flat-square&logo=python&logoColor=white)
+![Research](https://img.shields.io/badge/-Data%20Research-C41E3A?style=flat-square&logo=databricks&logoColor=white)
+![Frontend](https://img.shields.io/badge/-Frontend-7C0A02?style=flat-square&logo=html5&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsingla-dev&show_icons=true&hide_border=true&title_color=A61B2B&icon_color=C1273D&text_color=E6C7CC&bg_color=00000000" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tsingla-dev&hide_border=true&background=00000000&ring=A61B2B&fire=C1273D&currStreakLabel=E6C7CC&sideLabels=E6C7CC&dates=C9A3AA&sideNums=E6C7CC&currStreakNum=E6C7CC" width="49%" />
-</p>
+Built for Smart India Hackathon — a full system for groundwater quality assessment through the Heavy Metal Pollution (HMP) index. Contributed to dataset research, frontend development & overall system architecture.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsingla-dev&layout=compact&hide_border=true&title_color=A61B2B&text_color=E6C7CC&bg_color=00000000" width="42%" />
-</p>
+</td>
 
----
+</tr>
+</table>
+</div>
 
-## ✦ a note to self
-
-not here to stay small.  
-not here to stay in one category.  
-here to build depth, range, and something real.
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<p align="center">
-  <i>still starting — but with intention ❤</i>
-</p>
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+
+### 🐍 `[ contributions ]`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tsingla/tsingla/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tsingla/tsingla/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tsingla/tsingla/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- PHILOSOPHY -->
+<div align="center">
+
+### 🌱 `[ what_i_am_becoming ]`
+
+</div>
+
+```
+not just a developer.
+not just an engineer.
+
+someone who:
+  → builds
+  → understands
+  → questions
+  → creates things that actually matter
+```
+
+<div align="center">
+
+<br/>
+
+> *"The people who are crazy enough to think they can change the world are the ones who do."*
+
+<br/>
+
+<!-- BOTTOM CTA -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsingla)
+[![GitHub](https://img.shields.io/badge/GitHub-C41E3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsingla)
+[![Email](https://img.shields.io/badge/Email-7C0A02?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=still+starting.+but+not+small.&fontColor=FF2D55&fontSize=18&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
