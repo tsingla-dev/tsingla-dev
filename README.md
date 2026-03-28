@@ -47,10 +47,9 @@ curious mind. sharp direction. long game.
 
 ---
 
-### 🌱 what I'm becoming
+### 🌱 who I will be in the next 5 years
 
-not just a developer.  
-not just an engineer.  
+not just a developer or engineer
 
 someone who:
 - builds  
